@@ -11,6 +11,14 @@ or use jlc_eda_pro open: pcext_10.6_rtl8156+vl822+fe2.1.eprj
 not need: ALL FLASH CHIP AND FIRMWARE; 
 
 
+my project support rtl8156B and rtl8156B"S";
+"S" version "S" = supply, chip have built in SW(switch) 3.3V && SW 0.95V;
+S version Pin 5, input: highV = enable built in SW power regulator, lowV = disable;
+notS version Pin 5, output: highV = now give rtl8156 0.95v, use to control SW/LDO chip EN pin;
+my project pin_5: R4.7k to GND;
+5v -> ldo -> 3.3v -> ldo -> 0.95v -> CCCCCCCC delay;
+
+
 
 pcb+:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_rtl8156-vl822-fe2.1/main/imgs/pbc%2B.jpg)
