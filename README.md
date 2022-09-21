@@ -44,9 +44,10 @@ pcb-:
 # verify rtl8156:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_rtl8156-vl822-fe2.1/main/imgs/rtl8156_verify_0.jpg)
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_rtl8156-vl822-fe2.1/main/imgs/rtl8156_verify_1.jpg)
+![image](https://raw.githubusercontent.com/gamefunc/pcb_rtl8156-vl822-fe2.1/main/imgs/rtl8156_verify_2.jpg)
 
 # verify vl822:
-![image](https://raw.githubusercontent.com/gamefunc/pcb_rtl8156-vl822-fe2.1/main/imgs/vl822_verify.jpg)
+![image](https://raw.githubusercontent.com/gamefunc/pcb_rtl8156-vl822-fe2.1/main/imgs/vl822_verify_v2.jpg)
 
 # verify fe2.1:
 ![image](https://raw.githubusercontent.com/gamefunc/pcb_rtl8156-vl822-fe2.1/main/imgs/fe2.1_verify.jpg)
