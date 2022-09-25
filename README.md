@@ -2,9 +2,9 @@
 
 verify pass;
 
-rtl8156 usb3 2.5G netcard;
+Realtek rtl8156 usb3 2.5G netcard;
 
-vl822 4 port usb3.2(usb 3 gen2) hub;
+VIA vl822 4 port usb3.2(usb 3 gen2) hub;
 
 fe2.1 usb2 7 port hub;
 
