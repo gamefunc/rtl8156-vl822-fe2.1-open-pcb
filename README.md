@@ -1,4 +1,4 @@
-# pcb_rtl8156-vl822-fe2.1
+# rtl8156 vl822 fe2.1 pcb open source project;
 
 verify pass;
 
