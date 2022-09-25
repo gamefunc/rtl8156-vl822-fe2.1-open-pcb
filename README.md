@@ -2,7 +2,7 @@
 
 verify pass;
 
-rtl8156 2.5g usb netcard;
+rtl8156 usb3 2.5G netcard;
 
 vl822 4 port usb3.2(usb 3 gen2) hub;
 
