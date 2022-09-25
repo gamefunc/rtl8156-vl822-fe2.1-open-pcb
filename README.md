@@ -2,6 +2,10 @@
 
 verify pass;
 
+rtl8156 2.5g usb netcard;
+vl822 4 port usb3.2(usb 3 gen2) hub;
+fe2.1 usb2 7 port hub;
+
 pcb online view: https://oshwhub.com/gamefunc/rtl8156-vl822-fe2.1-quan-yan-zheng-wan-bi
 
 maybe this link direct view pcb: https://pro.lceda.cn/editor#id=1934a4245f3142a6956326d20a553307
